@@ -1,0 +1,149 @@
+# Data Engineering Path
+
+This document outlines a structured path and provides learning resources for aspiring Data Engineers. Data Engineering is a crucial field that involves the collection, storage, and processing of data to enable data-driven decision-making. To become proficient in Data Engineering, follow the steps below and practice with the recommended resources.
+
+## 1) Programming Languages
+### 1. Python
+
+- Python is a fundamental programming language in Data Engineering.
+- **Learning Resource**: [Python Official Documentation](https://docs.python.org/3/)
+
+### 2. SQL
+
+- SQL (Structured Query Language) is essential for managing and querying databases.
+- **Learning Resource**: [SQL Notes GitHub Repository](https://github.com/stahir01/SQL-notes-practice-questions)
+
+This GitHub repository contains valuable resources and materials for learning SQL. You can find tutorials, examples, and practice questions to enhance your SQL skills.
+
+### 3. Scala
+
+- Scala is important for working with Apache Spark and Apache Kafka.
+- **Learning Resources**:
+  - [All About Scala](https://allaboutscala.com/#chapter-3-functions)
+  - [Scala Programming Udemy Course](https://www.udemy.com/course/scala-programming/)
+ 
+### 4. Java
+- 
+
+
+## 2) Data Structures & Algorithms
+
+- A solid understanding of data structures and algorithms is crucial for optimizing data processing tasks.
+- **Learning Resource**: [Data Structures and Algorithms GitHub Repository](https://github.com/stahir01/Data-Structure-Algorithms)
+
+The GitHub repository offers a comprehensive collection of resources for learning and practicing data structures and algorithms. It includes explanations, code examples, and exercises to help you master these fundamental concepts.
+
+
+## 3) Dashboarding
+
+- Data visualization and reporting are vital skills in Data Engineering.
+- Learn dashboarding tools like Tableau, QlikSense, Metabase, and PowerBI.
+- For Tableau, consider enrolling in courses on platforms like Coursera.
+
+
+## 4) ETL/Orchestration tools
+
+  ### 1. Airflow
+
+- 
+
+### 2. Airbyte
+
+- 
+
+### 3. dbt
+-
+
+
+## 5) Data Warehousing Tools
+
+  ### 1. Big Query
+  ### 2. Snowflake
+
+
+
+## 6) Docker
+
+- Docker is essential for developing and deploying applications efficiently.
+- **Learning Resources**:
+  - [Docker Basics Video Series](https://www.youtube.com/watch?v=Gw2Jrid4SaQ)
+  - [Docker for Beginners Video Series](https://www.youtube.com/watch?v=3c-iBn73dDE)
+  - [Docker Project Practice Video](https://www.youtube.com/watch?v=SnSH8Ht3MIc)
+
+After familiarizing yourself with Docker, take the following steps to gain hands-on experience:
+
+   - Create a new Docker project where you:
+      - Build a Docker image for your application.
+      - Create a Docker container from the image.
+      - Deploy it using a Continuous Integration/Continuous Deployment (CI/CD) pipeline.
+      - Import the Docker container you deployed and make changes to your application.
+      - Rebuild the Docker image and redeploy it using the CI/CD pipeline.
+   
+This practical project will provide you with a complete understanding of setting up Docker, building images, deploying containers, making changes, and updating your application seamlessly.
+
+
+## 7) Kubernetes
+
+- Kubernetes is a container orchestration platform often used in Data Engineering.
+- **Learning Resource**: [Kubernetes Tutorial Video](https://www.youtube.com/watch?v=X48VuDVv0do)
+
+  
+## 8) Big Data Libraries
+
+  ### 1. Apache Spark
+
+  - Apache Spark is a powerful tool for big data processing.
+  - **Learning Resources**:
+    - [Apache Spark Fundamentals Video](https://www.youtube.com/watch?v=ymtq8yjmD9I)
+    - [Apache Spark Introduction Video](https://www.youtube.com/watch?v=_C8kWso4ne4)
+    - [Apache Spark RDDs and DataFrames Video](https://www.youtube.com/watch?v=OHhNi56euvM)
+    - [Apache Spark Streaming Video](https://www.youtube.com/watch?v=0pnCIrv1a9M)
+
+  ### 2. Apache Kafka
+
+  - Apache Kafka is a distributed event streaming platform often used in Data Engineering.
+
+  ### 3. Apache Flink
+
+  ### 4. Apache Beam
+
+  ### 5. HDFS / Map Reduce / Apache HBase
+
+## 9) CI/CD Pipeline
+
+- Continuous Integration and Continuous Deployment (CI/CD) is crucial for automating software development processes.
+- **Learning Resources**:
+  - [CI/CD Pipeline Tutorial 1](https://www.youtube.com/watch?v=57dkyTmOCmE)
+  - [CI/CD Pipeline Tutorial 2](https://www.youtube.com/watch?v=R8_veQiYBjI)
+
+Feel free to explore these resources, practice your skills, and gradually build your expertise in Data Engineering. Good luck on your learning journey!
+
+## 9) Data Warehousing Concepts
+  - [Ralph Kimball Data Warehousing book](http://160592857366.free.fr/joe/ebooks/ShareData/The%20Data%20Warehouse%20Toolkit.pdf)
+
+## 10) NoSQL Databases
+
+
+## 11) Distributed Systems
+
+
+## 12) Cloud Computing
+  - Azure
+  - AWS
+  - Google Cloud Platform
+
+## 13) Git
+  - Git
+  - Github
+  - Gitlab
+
+## 14) Frontend Development
+
+
+
+
+
+   
+  
+   
+
